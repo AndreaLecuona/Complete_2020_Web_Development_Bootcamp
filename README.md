@@ -1,5 +1,5 @@
 # Complete_2020_Web_Development_Bootcamp
-(Spanish below)
+*(Spanish below)*
 
 What you'll see is a selection of exercises from The Complete 2020 Web Developer Bootcamp by Angela Yu &amp; The App Brewery.
 
