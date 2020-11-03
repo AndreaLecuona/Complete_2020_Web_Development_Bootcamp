@@ -1,0 +1,131 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #363636;
+}
+
+h1 {
+    width: 30%;
+    margin: 0 auto;
+    font-family: 'Sofia', cursive;
+    font-size: 4rem;
+    color: #4cd3c2;
+    line-height: 1.5;
+}
+
+h2{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    color: #4cd3c2;
+    font-size: 3rem;
+}
+
+h3 {
+    font-family: 'Quicksand', sans-serif;
+    color: #ffbcbc;
+}
+
+p {
+    font-size: 0.9rem;
+}
+
+.top-container {
+    background-color: rgb(207, 239, 250);
+    position: relative;
+    padding-top: 130px;
+}
+.top-container h2{
+    font-size: 1.3rem; /* 40px/16px */
+    color: #363636;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 40px;
+    right: 350px
+}
+.bottom-cloud {
+    position: absolute;
+    top:360px;
+    left: 200px;
+}
+
+.middle-container {
+    margin: 100px auto;
+}
+
+hr {
+    border: 5px dotted #EAF6F6;
+    border-bottom: none;
+    height: 0px;
+    width: 5%;
+    margin: 80px auto;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill-row .dg{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.skill-row .fe{
+    width: 15%;
+    float: right;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+.contact-me p {
+    padding-top: 20px;
+}
+
+.bottom-container{
+    background-color: #363636;
+    height: auto;
+    padding: 20px 0 10px;
+}
+.bottom-container p{
+    color: #EAF6F6;
+    padding-bottom: 50px;
+    font-size: 0.7rem;
+}
+
+a {
+    color: #4cd3c2;
+    text-decoration: none;
+    display: inline-block;
+    margin: 50px 20px 30px 20px;
+}
+a:hover {
+    color: #ffbcbc;
+}
+
+.btn-contacto {
+    background: #B7EFCD;
+    background-image: -webkit-linear-gradient(top, #B7EFCD, #4CD3C2);
+    background-image: -moz-linear-gradient(top, #B7EFCD, #4CD3C2);
+    background-image: -ms-linear-gradient(top, #B7EFCD, #4CD3C2);
+    background-image: -o-linear-gradient(top, #B7EFCD, #4CD3C2);
+    background-image: linear-gradient(to bottom, #B7EFCD, #4CD3C2);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    height: 50px;
+    line-height: 50px;
+    color: #FFFFFF;
+    font-family: 'Quicksand', sans-serif;
+    width: 171px;
+    font-size: 20px;
+    padding: 0px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
