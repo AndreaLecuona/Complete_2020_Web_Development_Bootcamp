@@ -1,4 +1,4 @@
-# Complete_2020_Web_Development_Bootcamp
+# Complete 2020 Web Development Bootcamp
 *(Spanish below)*
 
 What you'll see is a selection of programming excercises completed by me for The Complete 2020 Web Development Bootcamp by Angela Yu &amp; The App Brewery, available on Udemy.com.
