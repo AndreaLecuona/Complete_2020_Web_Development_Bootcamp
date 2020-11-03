@@ -43,10 +43,11 @@ During this course I've learned Front-End Web Development (HTML 5, CSS 3, Bootst
   https://kitvr.csb.app/
   
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Spanish version*
 
 A continuación verán algunos de los proyectos de The Complete 2020 Web Developer Bootcamp by Angela Yu &amp; The App Brewery.
 
-Este fue uno de mis primeros cursos relacionados con el desarrollo web. Fue complejo pero a la vez, una muy interesante y valiosa experiencia.
+Este fue uno de mis primeros cursos relacionados con el desarrollo web. Fue complejo, pero a la vez, una muy interesante y valiosa experiencia.
 Durante este curso aprendí desarrollo Front-End (HTML 5, CSS 3, Bootstrap 4, Javascript ES6, DOM Manipulation, jQuery, Bash Command Line, Git, GitHub y Version Control) y también desarrollo Back-End (Node.js, NPM, Express.js, EJS, REST, APIs, Databases, SQL, MongoDB, Mongoose, Authentication, React.js, React UseState Hooks, conceptos de Diseño Web, Deployment with Heroku y MongoDB Atlas). 
 
 ## Te invito a verlos!
