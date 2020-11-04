@@ -25,7 +25,18 @@ Made with love, dedication and lots of coffee
 - React Keeper App
 
   https://vqpyp.csb.app/
+  
+- Simon game
 
+  https://challenge-simon.netlify.app/
+
+- Tindog Landing page with Bootstrap
+
+  https://challenge-tindog.netlify.app/
+
+- Drum kit
+
+  https://challenge-drumkit.netlify.app/
 
 ### Smaller projects:
 
@@ -44,6 +55,10 @@ Made with love, dedication and lots of coffee
 - React Conctact Page
 
   https://kitvr.csb.app/
+  
+- Personal site
+
+  https://challenge-personal-site.netlify.app/
   
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 *Spanish version*
@@ -73,6 +88,17 @@ Hecho con amor, dedicación y, sobre todo, mucho café
 
   https://vqpyp.csb.app/
 
+- Simon game
+
+  https://challenge-simon.netlify.app/
+  
+- Tindog Landing page with Bootstrap
+
+  https://challenge-tindog.netlify.app/
+
+- Drum kit
+
+  https://challenge-drumkit.netlify.app/
 
 ### Proyectos pequeños:
 
@@ -91,3 +117,9 @@ Hecho con amor, dedicación y, sobre todo, mucho café
 - React Conctact Page
 
   https://kitvr.csb.app/
+  
+- Personal site
+
+  https://challenge-personal-site.netlify.app/
+  
+  
