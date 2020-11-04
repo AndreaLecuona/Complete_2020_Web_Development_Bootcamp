@@ -10,7 +10,6 @@ During this course I've learned Front-End Web Development (HTML 5, CSS 3, Bootst
 Made with love, dedication and lots of coffee
 
 ## Take a look!
-(I'll be uploading more soon)
 
 ### Bigger projects:
 
@@ -72,7 +71,6 @@ Durante este curso aprendí desarrollo Front-End (HTML 5, CSS 3, Bootstrap 4, Ja
 Hecho con amor, dedicación y, sobre todo, mucho café
 
 ## Te invito a verlos!
-(Próximamente seguiré subiendo)
 
 ### Proyectos grandes:
 
