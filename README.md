@@ -9,13 +9,9 @@ During this course I've learned Front-End Web Development (HTML 5, CSS 3, Bootst
 
 Made with love, dedication and lots of coffee
 
-## Take a look!
+## This are a few of them. Take a look!
 
 ### Bigger projects:
-
-- Newsletter Signup
-
-  https://sleepy-temple-43545.herokuapp.com/
 
 - Blog
 
@@ -28,6 +24,10 @@ Made with love, dedication and lots of coffee
 - Simon game
 
   https://challenge-simon.netlify.app/
+  
+- Newsletter Signup
+
+  https://sleepy-temple-43545.herokuapp.com/
 
 - Tindog Landing page with Bootstrap
 
@@ -55,7 +55,7 @@ Made with love, dedication and lots of coffee
 
   https://kitvr.csb.app/
   
-- Personal site
+- Example of Personal site
 
   https://challenge-personal-site.netlify.app/
   
@@ -70,13 +70,9 @@ Durante este curso aprendí desarrollo Front-End (HTML 5, CSS 3, Bootstrap 4, Ja
 
 Hecho con amor, dedicación y, sobre todo, mucho café
 
-## Te invito a verlos!
+## Estos son sólo algunos. Te invito a verlos!
 
 ### Proyectos grandes:
-
-- Newsletter Signup
-
-  https://sleepy-temple-43545.herokuapp.com/
 
 - Blog
 
@@ -89,6 +85,10 @@ Hecho con amor, dedicación y, sobre todo, mucho café
 - Simon game
 
   https://challenge-simon.netlify.app/
+  
+- Newsletter Signup
+
+  https://sleepy-temple-43545.herokuapp.com/
   
 - Tindog Landing page with Bootstrap
 
@@ -116,7 +116,7 @@ Hecho con amor, dedicación y, sobre todo, mucho café
 
   https://kitvr.csb.app/
   
-- Personal site
+- Example of Personal site
 
   https://challenge-personal-site.netlify.app/
   
