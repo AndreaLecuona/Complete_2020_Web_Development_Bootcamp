@@ -9,7 +9,7 @@ During this course I've learned Front-End Web Development (HTML 5, CSS 3, Bootst
 
 Made with love, dedication and lots of coffee
 
-## This are a few of them. Take a look!
+## These are a few of them. Take a look!
 
 ### Bigger projects:
 
