@@ -15,7 +15,7 @@ Made with love, dedication and lots of coffee
 
 - Blog
 
-  https://obscure-fjord-40863.herokuapp.com/
+  https://obscure-fjord-40863.herokuapp.com/ (not available)
 
 - React Keeper App
 
@@ -27,7 +27,7 @@ Made with love, dedication and lots of coffee
   
 - Newsletter Signup
 
-  https://sleepy-temple-43545.herokuapp.com/
+  https://sleepy-temple-43545.herokuapp.com/ (not available)
 
 - Tindog Landing page with Bootstrap
 
@@ -76,7 +76,7 @@ Hecho con amor, dedicación y, sobre todo, mucho café
 
 - Blog
 
-  https://obscure-fjord-40863.herokuapp.com/
+  https://obscure-fjord-40863.herokuapp.com/ (not available)
 
 - React Keeper App
 
@@ -88,7 +88,7 @@ Hecho con amor, dedicación y, sobre todo, mucho café
   
 - Newsletter Signup
 
-  https://sleepy-temple-43545.herokuapp.com/
+  https://sleepy-temple-43545.herokuapp.com/ (not available)
   
 - Tindog Landing page with Bootstrap
 
